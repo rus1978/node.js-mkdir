@@ -1,2 +1,2 @@
-# node.js-mkdir
-node.js-mkdir
+# mkdir (recursively) for node.js
+node.js create directory recursively
